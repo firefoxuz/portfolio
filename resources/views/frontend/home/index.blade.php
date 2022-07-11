@@ -757,6 +757,7 @@
 {{--                            <p>Sed eleifend sed nibh nec fringilla. Donec eu cursus sem, vitae tristique ante. Cras--}}
 {{--                                pretium rutrum egestas. Integer ultrices libero sed justo vehicula, eget tincidunt--}}
 {{--                                tortor tempus.</p>--}}
+                            
                             <div class="contact-info-block">
                                 <div class="ci-icon">
                                     <i class="pe-7s-icon pe-7s-map-marker"></i>
